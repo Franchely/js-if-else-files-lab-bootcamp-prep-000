@@ -1,9 +1,6 @@
 var name = "Susan"
 var height = 70
-if (name === "Susan") {
-}
-if (height === 70 ) {
-}
+
 
 // Don't worry about this
 module.exports = { name, height
